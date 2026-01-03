@@ -1,0 +1,5 @@
+{
+  "name": "DataCleanse: The Client-Side Data Cleanser",
+  "description": "A fast, private, client-side tool for cleaning and preparing CSV, TSV, and JSON data. All processing is done locally in your browser for maximum privacy and speed.",
+  "requestFramePermissions": []
+}
